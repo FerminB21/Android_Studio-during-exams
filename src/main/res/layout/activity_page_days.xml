@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".days"
+    >
+
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/back"
+        />
+
+    <Button
+        android:id="@+id/day1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+        android:textSize="2mm"
+        android:text="Day1"
+        />
+
+
+    <Button
+        android:id="@+id/day2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="85dp"
+        android:text="Day2" />
+    <Button
+        android:id="@+id/day3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="170dp"
+        android:textSize="2mm"
+        android:text="Day3" />
+
+    <Button
+        android:id="@+id/day4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="255dp"
+        android:textSize="2mm"
+        android:text="Day4" />
+
+
+    <Button
+        android:id="@+id/day5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="0dp"
+        android:text="Day5" />
+    <Button
+        android:id="@+id/day6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="85dp"
+        android:text="Day6" />
+    <Button
+        android:id="@+id/day7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="170dp"
+        android:textSize="2mm"
+        android:text="Day7" />
+    <Button
+        android:id="@+id/day8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="255dp"
+        android:textSize="2mm"
+        android:text="Day8" />
+    <Button
+        android:id="@+id/day9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="0dp"
+        android:textSize="2mm"
+        android:text="Day9" />
+
+    <Button
+        android:id="@+id/day10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="85dp"
+        android:textSize="2mm"
+        android:text="Day10" />
+    <Button
+        android:id="@+id/day11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="170dp"
+        android:textSize="2mm"
+        android:text="Day11" />
+    <Button
+        android:id="@+id/day12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="255dp"
+        android:text="Day12" />
+    <Button
+        android:id="@+id/day13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="2mm"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="0dp"
+        android:text="Day13" />
+    <Button
+        android:id="@+id/day14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="85dp"
+        android:text="Day14" />
+    <Button
+        android:id="@+id/day15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="170dp"
+        android:text="Day15" />
+    <Button
+        android:id="@+id/day16"
+        android:layout_width="wrap_content"
+        android:textSize="2mm"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="255dp"
+        android:text="Day16" />
+    <Button
+        android:id="@+id/day17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="0dp"
+        android:text="Day17" />
+    <Button
+        android:id="@+id/day18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="85dp"
+        android:text="Day18" />
+    <Button
+        android:id="@+id/day19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="170dp"
+        android:text="Day19" />
+    <Button
+        android:id="@+id/day20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:layout_marginLeft="255dp"
+        android:textSize="2mm"
+        android:text="Day20" />
+    <Button
+        android:id="@+id/day21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="0dp"
+        android:textSize="2mm"
+        android:text="Day21" />
+    <Button
+        android:id="@+id/day22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="85dp"
+        android:textSize="2mm"
+        android:text="Day22" />
+    <Button
+        android:id="@+id/day23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="170dp"
+        android:textSize="2mm"
+        android:text="Day23" />
+    <Button
+        android:id="@+id/day24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="255dp"
+        android:textSize="2mm"
+        android:text="Day24" />
+    <Button
+        android:id="@+id/day25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="0dp"
+        android:textSize="2mm"
+        android:text="Day25" />
+    <Button
+        android:id="@+id/day26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:textSize="2mm"
+        android:layout_marginLeft="85dp"
+        android:text="Day26" />
+    <Button
+        android:id="@+id/day27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="170dp"
+        android:text="Day27" />
+    <Button
+        android:id="@+id/day28"
+        android:textSize="2mm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="255dp"
+        android:text="Day28" />
+    <Button
+        android:id="@+id/day29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="2mm"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="0dp"
+        android:text="Day29" />
+    <Button
+        android:id="@+id/day30"
+        android:layout_width="wrap_content"
+        android:textSize="2mm"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="85dp"
+        android:text="Day30" />
+
+
+
+</RelativeLayout>

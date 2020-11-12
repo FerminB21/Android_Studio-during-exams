@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328468861717",
+    "firebase_url": "https://texnologia-81e24.firebaseio.com",
+    "project_id": "texnologia-81e24",
+    "storage_bucket": "texnologia-81e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328468861717:android:09a07dc09565f2d3eb0f1c",
+        "android_client_info": {
+          "package_name": "com.example.myfitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328468861717-ldu7a1ifb4ujq0pju0v27sdju4ssggl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCz5blekn4vpeRsrJLw7u8wQp60EFtOVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328468861717-ldu7a1ifb4ujq0pju0v27sdju4ssggl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

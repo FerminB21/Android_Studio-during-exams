@@ -1,0 +1,6 @@
+Moday                |Tuesday       |Wednesday       |Friday               |Saturday          |Sunday
+3 eggs+milk      |3 eggs+milk |3 eggs+milk       |3 eggs+milk    |3 eggs+milk     |3 eggs+milk               
+2 bananas        |2 ap   ples    |2 bananas         |2 apples          |2 bananas       |2 bananas        
+protein food    |protein  food|protein  food    |protein food   |protein  food  |protein food     
+2 protein bars |2 protein bars|2 protein bars|2 protein bars |2 protein bars |2 protein bars
+protein food   |protein food    |protein food    |protein food  |protein food   |protein food                 

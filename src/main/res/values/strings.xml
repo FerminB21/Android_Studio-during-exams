@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFitApp</string>
+    <string name="save">Send</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
